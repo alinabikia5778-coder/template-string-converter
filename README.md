@@ -113,7 +113,7 @@ If you find a bug, please [file an issue](https://github.com/meganrogge/template
 
 ---
 
-## 📄 License
+## 📄 خصوصی
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.txt) file for details.
 
